@@ -1,0 +1,21 @@
+
+
+Package: com.dvntm.grox
+Name: GroX
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.grox_0.0.1_iphoneos-arm64e.deb
+Size: 6434
+MD5sum: cbf4dcb62f81ebe2f812c2df3cdcd597
+SHA1: 3983c6e5b3a71398797fd42573788ab147d542f9
+SHA256: ef9564a45ec4db9d592b4ce9c2b2148bc79ea86b8b888d173f65668aca91291e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dvntm
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 7
+
+
