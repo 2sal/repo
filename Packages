@@ -1,5 +1,26 @@
 
 
+Package: com.netskao.filzacrack
+Name: Filza Crack
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64e.deb
+Size: 6748
+MD5sum: c47aa957ef4dc6b995b058f31110fb17
+SHA1: 42f9b13203b63a96c99f8e63b6446729fb51773f
+SHA256: 8b438d33a45841240173a62f8c5c3cbe31f944b60be9c32838b07c08481f3f0b
+Section: Netskao-Tweaks
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Nets
+Depiction: 
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 7
+
+
+
+
 Package: com.dvntm.grox
 Name: GroX
 Version: 0.0.1
