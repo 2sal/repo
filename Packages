@@ -10,7 +10,7 @@ Size: 6748
 MD5sum: c47aa957ef4dc6b995b058f31110fb17
 SHA1: 42f9b13203b63a96c99f8e63b6446729fb51773f
 SHA256: 8b438d33a45841240173a62f8c5c3cbe31f944b60be9c32838b07c08481f3f0b
-Section: Netskao-Tweaks
+Section: Roothide Packages
 Description: Filza unlock full functionality, the main program please install in the official source
 Author: Nets
 Depiction: 
@@ -31,7 +31,7 @@ Size: 6434
 MD5sum: cbf4dcb62f81ebe2f812c2df3cdcd597
 SHA1: 3983c6e5b3a71398797fd42573788ab147d542f9
 SHA256: ef9564a45ec4db9d592b4ce9c2b2148bc79ea86b8b888d173f65668aca91291e
-Section: Tweaks
+Section: Roothide Packages
 Description: An awesome MobileSubstrate tweak!
 Author: dvntm
 Depiction: 
