@@ -1,42 +1,37 @@
-
-
-Package: com.netskao.filzacrack
-Name: Filza Crack
-Version: 1.1-8
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
-Filename: ./debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64e.deb
-Size: 6748
-MD5sum: c47aa957ef4dc6b995b058f31110fb17
-SHA1: 42f9b13203b63a96c99f8e63b6446729fb51773f
-SHA256: 8b438d33a45841240173a62f8c5c3cbe31f944b60be9c32838b07c08481f3f0b
-Section: Roothide Packages
-Description: Filza unlock full functionality, the main program please install in the official source
-Author: Nets
-Depiction: 
-SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 7
-
-
-
-
 Package: com.dvntm.grox
-Name: GroX
-Version: 0.0.1
 Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.dvntm.grox_0.0.1_iphoneos-arm64e.deb
+Filename: ./debs//com.dvntm.grox_0.0.1_iphoneos-arm64e.deb
 Size: 6434
 MD5sum: cbf4dcb62f81ebe2f812c2df3cdcd597
 SHA1: 3983c6e5b3a71398797fd42573788ab147d542f9
 SHA256: ef9564a45ec4db9d592b4ce9c2b2148bc79ea86b8b888d173f65668aca91291e
-Section: Roothide Packages
+SHA512: d908938bc76ff1c403915fc2bdeae023ede5e9c3f99c9f2948f414ed4fddcf57468a8b10b9ab8cca87af9877ebb0d1e4098bf264e2c0af815399996ee514afff
 Description: An awesome MobileSubstrate tweak!
+Name: GroX
 Author: dvntm
-Depiction: 
-SileoDepiction: 
-Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
-Installed-size: 7
 
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64e
+Version: 1.1-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs//com.netskao.filzacrack_1.1-8_iphoneos-arm64e.deb
+Size: 6748
+MD5sum: c47aa957ef4dc6b995b058f31110fb17
+SHA1: 42f9b13203b63a96c99f8e63b6446729fb51773f
+SHA256: 8b438d33a45841240173a62f8c5c3cbe31f944b60be9c32838b07c08481f3f0b
+SHA512: 39bd50d797e7f28718cd7f85e805b585b898e22bbcc370e2f25d1164806d73773416a72d9ab3281700037690e032b613c1cb8ab93faff9a037dce36b9d6dbfb4
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
 
